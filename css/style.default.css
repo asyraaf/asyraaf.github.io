@@ -37,6 +37,14 @@ section.background-gray-lightest {
   border-top: solid 1px #eeeeee;
   border-bottom: solid 1px #eeeeee;
 }
+#page3{
+  margin-top: 25%;
+}
+
+#page4{
+  margin-top: 35%;
+}
+
 .italic {
   font-style: italic;
   font-family: "Georgia", "Times New Roman", Times, serif;
