@@ -83,8 +83,8 @@ position: absolute;
 }
 .img-responsive {
   margin: 0 auto;
-  height: 60%;
-  width: 60%;
+  height: 55%;
+  width: 55%;
 }
 .no-space .box {
   margin: 0 -15px;
