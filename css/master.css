@@ -1,0 +1,40 @@
+h1 {
+ font-size: 48px;
+}
+
+@media (min-width: 1200px) {
+  h1 {
+    font-size: 70px;
+  }
+  h2.heading {
+    font-size: 60px;
+  }
+}
+
+h2{
+  font-size: 40px;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    line-height: 1.2;
+    color: #000000;
+}
+.heading:after {
+ content: " ";
+ display: block;
+ width: 100px;
+ height: 2px;
+ background: #2b90d9;
+}
+
+#page1{
+ margin-top: 3%;
+}
+
+@media (min-width: 320px) {
+  section{
+   margin-top: 5%;
+  }
+}
