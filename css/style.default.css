@@ -27,7 +27,7 @@ header {
 section {
   position: relative;
   padding-top: 90px;
-  padding-bottom: 90px;
+  /*padding-bottom: 90px;*/
 }
 section.background-gray-lighter {
   background: #eeeeee;
